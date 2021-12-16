@@ -1,0 +1,4 @@
+@import '../../node_modules/react-datepicker/src/stylesheets/datepicker.scss';
+.react-datepicker{
+	color: red;
+}
