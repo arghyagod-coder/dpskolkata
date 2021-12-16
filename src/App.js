@@ -22,7 +22,7 @@ function App() {
       <div className="auth-wrapper">
         <div className="auth-inner">
           <Switch>
-            <Route exact path='/' component={Login} />
+            <Route exact path='/dpskolkata/' component={Login} />
             <Route path="/dpskolkata/sign-in" component={Login} />
             <Route path="/dpskolkata/home" component={Home} />
             <Route path="/dpskolkata/assignment" component={Assignment} />
