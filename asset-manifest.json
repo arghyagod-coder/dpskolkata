@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dpskolkata/static/css/main.e10b963b.chunk.css",
+    "main.css": "/dpskolkata/static/css/main.10635179.chunk.css",
     "main.js": "/dpskolkata/static/js/main.f4ac4026.chunk.js",
     "main.js.map": "/dpskolkata/static/js/main.f4ac4026.chunk.js.map",
     "runtime-main.js": "/dpskolkata/static/js/runtime-main.1f323ddc.js",
@@ -10,14 +10,14 @@
     "static/js/2.6b466112.chunk.js.map": "/dpskolkata/static/js/2.6b466112.chunk.js.map",
     "index.html": "/dpskolkata/index.html",
     "static/css/2.6c7e8b04.chunk.css.map": "/dpskolkata/static/css/2.6c7e8b04.chunk.css.map",
-    "static/css/main.e10b963b.chunk.css.map": "/dpskolkata/static/css/main.e10b963b.chunk.css.map",
+    "static/css/main.10635179.chunk.css.map": "/dpskolkata/static/css/main.10635179.chunk.css.map",
     "static/js/2.6b466112.chunk.js.LICENSE.txt": "/dpskolkata/static/js/2.6b466112.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1f323ddc.js",
     "static/css/2.6c7e8b04.chunk.css",
     "static/js/2.6b466112.chunk.js",
-    "static/css/main.e10b963b.chunk.css",
+    "static/css/main.10635179.chunk.css",
     "static/js/main.f4ac4026.chunk.js"
   ]
 }
